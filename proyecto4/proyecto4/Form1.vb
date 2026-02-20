@@ -36,10 +36,16 @@
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles DIVIDIR.Click
 
+        Dim resultado
+
         Dim numero1 As Double = Double.Parse(TXTBXnum1.Text)
         Dim numero2 As Double = Double.Parse(TXTBXnum2.Text)
 
-        Dim resultado As Double = numero1 / numero2
+        If numero2 > 0 Then
+            resultado = numero1 / numero2
+        Else
+            resultado = "No se puede"
+        End If
 
         Label4.Text = resultado.ToString()
 

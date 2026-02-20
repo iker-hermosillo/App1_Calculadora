@@ -22,3 +22,15 @@ C:\Users\win512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\
 C:\Users\win512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.exe
 C:\Users\win512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.xml
 C:\Users\win512\Downloads\App1_Calculadora-main\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.pdb
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.exe.config
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.exe
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.pdb
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\bin\Debug\proyecto4.xml
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.Form1.resources
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.Resources.resources
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.exe
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.xml
+C:\Users\win512\Downloads\App1_Calculadora-main (4)\App1_Calculadora-main\proyecto4\proyecto4\obj\Debug\proyecto4.pdb
